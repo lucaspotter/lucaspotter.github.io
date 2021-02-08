@@ -1,5 +1,9 @@
 # lucaspotter.github.io
+## the home of ~~questionable~~ quality products
 
-yeah, it's a website. send help.
-mit license applies, that's here too
-go to lucaspotter.ml, it's better
+### code clicker
+A fun game where you ~~shop till you drop~~ click until you... something?
+
+Play Now: (i'll throw in the link when development is done.)
+
+Github: https://github.com/lucaspotter/Code-Clicker
