@@ -4,6 +4,6 @@
 ### code clicker
 A fun game where you ~~shop till you drop~~ click until you... something?
 
-Play Now: https://Code-Clicker.lucaspotter2.repl.co
+Play Now: lucaspotter.github.io/codeclicker.html
 
 Github: https://github.com/lucaspotter/Code-Clicker
