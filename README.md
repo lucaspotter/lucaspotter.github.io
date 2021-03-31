@@ -7,9 +7,3 @@ A fun game where you ~~shop till you drop~~ click until you... something?
 Play Now: <https://lucaspotter.github.io/codeclicker/codeclicker.html>
 
 Github: <https://github.com/lucaspotter/Code-Clicker>
-
-
-### chatroom
-just a chatroom. nothing special.
-
-Chat Now: <https://lucaspotter.github.io/chatroom/index.php>
