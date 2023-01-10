@@ -2,4 +2,4 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: lucas potter
-description: hell and damnation, bundled in one website!
+description: (or: the portfolio of a certain someone)
